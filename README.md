@@ -1,2 +1,1 @@
-# crawling
-crawling data
+# 크롤링
